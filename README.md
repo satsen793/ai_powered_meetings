@@ -144,6 +144,7 @@ src/
 
 Available Scripts
 -----------------
+```
 npm run dev        # Start development server
 npm run build      # Build for production
 npm run start      # Start production server
@@ -151,15 +152,12 @@ npm run lint       # Run ESLint
 npm run db:push    # Push database schema
 npm run db:studio  # Open Drizzle Studio
 
-Contributing
-------------
-See CONTRIBUTING.md for details.
+```
 
 
 
-Support
--------
-- GitHub Issues
+
+
 
 Contact
 -------
