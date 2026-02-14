@@ -41,7 +41,4 @@ yarn-error.log*
 next-env.d.ts
 # Learning guide files (local only)
 LEARNING_GUIDE.md
-PHASE_1_WEB_FUNDAMENTALS.md
-PHASE_2_REACT_ESSENTIALS.md
-PHASE_3_TYPESCRIPT_COMPLETE.md
-PHASE_4_NEXTJS_FRAMEWORK.md
+PHASE_*.md
