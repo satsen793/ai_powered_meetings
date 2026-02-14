@@ -122,6 +122,7 @@ Open http://localhost:3000 to see the application.
 
 Project Structure
 -----------------
+```
 src/
 ├── app/                    # Next.js App Router
 ├── components/
@@ -139,6 +140,7 @@ src/
 │   └── schema.ts            # Database schema
 ├── inngest/                 # Background job functions
 └── trpc/                    # API routes and procedures
+```
 
 Available Scripts
 -----------------
